@@ -1,16 +1,40 @@
-### Hi there 👋
+<div id="user-content-toc" style="color: white;">
+  <ul align="center">
+    <summary><h1 style="display: inline-block; color: white;">George Manolachi</h1></summary>
+  </ul>
+</div>
+<img src="https://github.com/Zeffar/Zeffar/blob/main/Zeffar%20-%20files/wallpaper.gif">
 
-<!--
-**Zeffar/Zeffar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="user-content-toc" style="color: white;">
+  <ul align="center">
+    <summary><h2 style="display: inline-block; color: white;">About me</h2></summary>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br> 
+Greetings! I am George, a first year Computer Science student at the University of Bucharest. 
+<br>
+<br>
+♞ skills: <br>
+✔ C++, Python, C#, Kotlin <br>
+✔ Advanced problem solving techniques <br>
+✔ Graph Theory and Data Structures <br>
+✔ Tensorflow 2.0, Keras, Pandas, NumPy <br>
+✔ Teamwork and Leadership <br>
+✔ Calculus III, Linear Algebra, Differential Equations <br>
+ <br>
+ ♞ Main interests: <br>
+▪️ Machine Learning <br>
+▪️ Quantum Computing <br>
+▪️ Quantum Mechanics <br>
+▪️ Real and Complex Analysis <br> 
+▪️ Differential Equations <br>
+▪️ Classical Mechanics  <br>
+<br>
+♞ Hobbies: <br>
+✔ Broadening my logical thinking and problem solving skills <br>
+✔ Participating in various science competitions <br>
+✔ Reading and Writing poetry <br>
+✔ Playing the piano <br>
+✔ Studying chess <br>
+✔ Cooking <br>
