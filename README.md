@@ -16,10 +16,9 @@ Greetings! I am George, a first year Computer Science student at the University 
 <br>
 <br>
 ♞ skills: <br>
-✔ C++, Python, C#, Kotlin <br>
+✔ C++, Python, C#, Java <br>
 ✔ Advanced problem solving techniques <br>
 ✔ Graph Theory and Data Structures <br>
-✔ Tensorflow 2.0, Keras, Pandas, NumPy <br>
 ✔ Teamwork and Leadership <br>
 ✔ Calculus III, Linear Algebra, Differential Equations <br>
  <br>
