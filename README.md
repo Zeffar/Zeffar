@@ -16,7 +16,7 @@ Greetings! I am George, a first year Computer Science student at the University 
 <br>
 <br>
 ♞ skills: <br>
-✔ C++, Python, C#, Java <br>
+✔ C++, Python, Asm x86 <br>
 ✔ Advanced problem solving techniques <br>
 ✔ Graph Theory and Data Structures <br>
 ✔ Teamwork and Leadership <br>
