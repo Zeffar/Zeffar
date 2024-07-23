@@ -12,28 +12,19 @@
 </div>
 
 <br> 
-Greetings! I am George, a first year Computer Science student at the University of Bucharest. 
+Yo! I am George, second year CS student and Google Intern. 🕶️
 <br>
 <br>
 ♞ skills: <br>
-✔ C++, Python, Asm x86 <br>
-✔ Advanced problem solving techniques <br>
+✔ C++, Python, Asm x86, Julia <br>
 ✔ Graph Theory and Data Structures <br>
-✔ Teamwork and Leadership <br>
-✔ Calculus III, Linear Algebra, Differential Equations <br>
+✔ Embedded Systems <br>
+✔ Signal Processing <br>
+✔ Machine Learning <br>
  <br>
  ♞ Main interests: <br>
-▪️ Machine Learning <br>
-▪️ Quantum Computing <br>
+▪️ Reinforcement Learning <br>
+▪️ Embedded Systems <br>
 ▪️ Quantum Mechanics <br>
-▪️ Real and Complex Analysis <br> 
-▪️ Differential Equations <br>
-▪️ Classical Mechanics  <br>
 <br>
-♞ Hobbies: <br>
-✔ Broadening my logical thinking and problem solving skills <br>
-✔ Participating in various science competitions <br>
-✔ Reading and Writing poetry <br>
-✔ Playing the piano <br>
-✔ Studying chess <br>
-✔ Cooking <br>
+
