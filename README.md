@@ -12,7 +12,7 @@
 </div>
 
 <br> 
-Yo! I am George, second year CS student and Google Intern. 🕶️
+Yo! I am George, second year CS student and ex Google Intern. 🕶️
 <br>
 <br>
 ♞ skills: <br>
